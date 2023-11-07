@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skills on Ira Tanneur</title>
+    <link>iratanneur.github.io/skills/</link>
+    <description>Recent content in Skills on Ira Tanneur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    
+	<atom:link href="iratanneur.github.io/skills/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compétences</title>
+      <link>iratanneur.github.io/skills/competences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>iratanneur.github.io/skills/competences/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

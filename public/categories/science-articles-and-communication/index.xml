@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science articles and communication on Ira Tanneur</title>
+    <link>iratanneur.github.io/categories/science-articles-and-communication/</link>
+    <description>Recent content in Science articles and communication on Ira Tanneur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 13 Oct 2021 06:48:44 +0200</lastBuildDate>
+    
+	<atom:link href="iratanneur.github.io/categories/science-articles-and-communication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Science Comedy Show</title>
+      <link>iratanneur.github.io/portfolio/science-comedy-show/</link>
+      <pubDate>Wed, 13 Oct 2021 06:48:44 +0200</pubDate>
+      
+      <guid>iratanneur.github.io/portfolio/science-comedy-show/</guid>
+      <description>Performance de théâtre de rue lors de la Fête de la Science 2021 - voir &lt;a href=&#34;https://actu.fr/pays-de-la-loire/yvre-l-eveque_72386/photos-pres-du-mans-le-village-des-sciences-se-plait-bien-a-l-abbaye-royale-de-l-epau_45566881.html&#34;&gt;cet article&lt;/a&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
