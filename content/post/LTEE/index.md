@@ -11,6 +11,7 @@ date: 2020-10-04T12:03:32+02:00
 lastmod: 2020-10-04T12:03:32+02:00
 featured: false
 draft: false
+weight: 20
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

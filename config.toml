@@ -1,11 +1,29 @@
-baseURL = "iratanneur.github.io"
+baseURL = "https://iratanneur.github.io"
 languageCode = "fr"
 title = "Ira Tanneur"
 theme = "ananke"
 
 sectionPagesMenu = 'main'
+
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "fr"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = true
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
+
+
+
+#[menu]
+#[[menu.main]]
+ #   name = 'A propos'
+  #  pageRef = '/iratanneur'
+  #  weight = 10
+#[[menu.main]]
+ #   name = 'Réalisations'
+  #  pageRef = '/portfolio'
+    #parent = "About"
+    # weight = 20
+
+
+
+

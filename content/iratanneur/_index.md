@@ -1,6 +1,7 @@
 ---
 # Display name
-title: A propos de moi
+title: 'A propos'
+weight: 2
 
 # Username (this should match the folder name)
 authors:
@@ -65,7 +66,27 @@ Je suis docteure en biologie computationnelle et biologie de synthèse. Je trava
 
 Je m'intéresse aussi à la communication et au journalisme scientifique, et je suis toujours prête à vulgariser mon travail - mais pas que ! 
 
-Intérêts 
+### Compétences
+
+[[feature]]
+  icon = ":dna:"
+  icon_pack = "emoji"
+  name = "Microbiologie, génétique et bioinformatique"
+  
+[[feature]]
+  icon = ":fountain_pen:"
+  icon_pack = "emoji"
+  name = "Rédaction d'articles de vulgarisation scientifique"
+
+[[feature]]
+ icon = ":studio_microphone:"
+ icon_pack = "emoji"
+ name = "Création, animation et montage de podcasts scientifiques"
+
+[[feature]]
+ icon = ":teacher:"
+ icon_pack = "emoji"
+ name = "Présentation du fonctionnement de la recherche et vulgarisation scientifique face public"
 
 
 </div>
