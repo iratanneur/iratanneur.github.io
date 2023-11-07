@@ -3,5 +3,5 @@ title: "Ira Tanneur"
 
 description: "Vulgarisation et médiation scientifique"
 cascade:
-  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+  featured_image: 'P1035580-2-cropped.jpg'
 ---

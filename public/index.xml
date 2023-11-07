@@ -2,103 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ira Tanneur</title>
-    <link>iratanneur.github.io/</link>
+    <link>https://iratanneur.github.io/</link>
     <description>Recent content on Ira Tanneur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 14 Nov 2021 10:33:27 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 07 Nov 2023 16:09:25 +0100</lastBuildDate>
     
-	<atom:link href="iratanneur.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iratanneur.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Compétences</title>
-      <link>iratanneur.github.io/skills/competences/</link>
+      <title>Biographie</title>
+      <link>https://iratanneur.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>iratanneur.github.io/skills/competences/</guid>
+      <guid>https://iratanneur.github.io/about/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>https://iratanneur.github.io/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iratanneur.github.io/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://iratanneur.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iratanneur.github.io/contact/</guid>
+      <description>Vous pouvez m&amp;rsquo;envoyer un email à ira.tanneur@gmail.com.</description>
+    </item>
+    
+    <item>
+      <title>Festival Pariscience</title>
+      <link>https://iratanneur.github.io/portfolio/festival_pariscience/</link>
+      <pubDate>Tue, 07 Nov 2023 16:09:25 +0100</pubDate>
+      
+      <guid>https://iratanneur.github.io/portfolio/festival_pariscience/</guid>
+      <description>Participation au concours Symbiose du festival Pariscience en 2022 - Mention spéciale du jury
+Vidéo à retrouver ici</description>
+    </item>
+    
+    <item>
       <title> L’ADN sera-t-il l’avenir du stockage de données ?</title>
-      <link>iratanneur.github.io/portfolio/theconversation/</link>
+      <link>https://iratanneur.github.io/portfolio/theconversation/</link>
       <pubDate>Sun, 14 Nov 2021 10:33:27 +0100</pubDate>
       
-      <guid>iratanneur.github.io/portfolio/theconversation/</guid>
+      <guid>https://iratanneur.github.io/portfolio/theconversation/</guid>
       <description>Article paru dans The Conversation en mai 2021</description>
     </item>
     
     <item>
       <title>ComSciCon</title>
-      <link>iratanneur.github.io/portfolio/comscicon/</link>
+      <link>https://iratanneur.github.io/portfolio/comscicon/</link>
       <pubDate>Sun, 14 Nov 2021 10:24:38 +0100</pubDate>
       
-      <guid>iratanneur.github.io/portfolio/comscicon/</guid>
+      <guid>https://iratanneur.github.io/portfolio/comscicon/</guid>
       <description>ComSciCon est un workshop de formation à la communication scientifique destiné aux doctorants et doctorantes de toutes les disciplines. Après y avoir participé en 2020 lors de la première édition française, j&amp;rsquo;ai contribué à l&amp;rsquo;organisation de la deuxième édition en 2021.</description>
     </item>
     
     <item>
       <title>Science Comedy Show</title>
-      <link>iratanneur.github.io/portfolio/science-comedy-show/</link>
+      <link>https://iratanneur.github.io/portfolio/science-comedy-show/</link>
       <pubDate>Wed, 13 Oct 2021 06:48:44 +0200</pubDate>
       
-      <guid>iratanneur.github.io/portfolio/science-comedy-show/</guid>
+      <guid>https://iratanneur.github.io/portfolio/science-comedy-show/</guid>
       <description>Performance de théâtre de rue lors de la Fête de la Science 2021 - voir &lt;a href=&#34;https://actu.fr/pays-de-la-loire/yvre-l-eveque_72386/photos-pres-du-mans-le-village-des-sciences-se-plait-bien-a-l-abbaye-royale-de-l-epau_45566881.html&#34;&gt;cet article&lt;/a&gt;</description>
     </item>
     
     <item>
       <title>Je Science donc Je Suis</title>
-      <link>iratanneur.github.io/portfolio/js2/</link>
+      <link>https://iratanneur.github.io/portfolio/js2/</link>
       <pubDate>Fri, 01 Jan 2021 11:16:17 +0100</pubDate>
       
-      <guid>iratanneur.github.io/portfolio/js2/</guid>
+      <guid>https://iratanneur.github.io/portfolio/js2/</guid>
       <description>Au printemps 2020, j&amp;rsquo;ai rejoint l&amp;rsquo;association de vulgarisation scientifique Je Science donc Je Suis. Je suis devenue à l&amp;rsquo;automne 2020 responsable du pôle Podcasts que j&amp;rsquo;ai animé pendant un an, et j&amp;rsquo;ai réalisé et produit plusieurs épisodes de podcast.</description>
     </item>
     
     <item>
-      <title>Papier Mâché</title>
-      <link>iratanneur.github.io/portfolio/papiermache/</link>
-      <pubDate>Fri, 01 Jan 2021 09:06:54 +0100</pubDate>
-      
-      <guid>iratanneur.github.io/portfolio/papiermache/</guid>
-      <description>Courant 2020, j&amp;rsquo;ai rédigé un article sur l&amp;rsquo;expérience de Luria et Delbrück de 1943, relatée dans leur article Mutations of bacteria from virus sensitivity to virus resistance pour le site de vulgarisation de publications scientifiques &lt;a href=&#34;https://papiermachesciences.org/&#34;&gt;Papier-Mâché&lt;/a&gt;. Vous pouvez retrouver cet article &lt;a href=&#34;https://papiermachesciences.org/2020/07/20/comment-montrer-que-la-mutation-precede-la-selection-avec-une-poignee-de-virus-et-de-bacteries-lexperience-de-luria-et-delbruck-c/?v=C&#34;&gt;ici&lt;/a&gt;</description>
-    </item>
-    
-    <item>
       <title>Long Term Evolution Experiment : des bactéries évoluant en laboratoire depuis 1988</title>
-      <link>iratanneur.github.io/post/ltee/</link>
+      <link>https://iratanneur.github.io/post/ltee/</link>
       <pubDate>Sun, 04 Oct 2020 12:03:32 +0200</pubDate>
       
-      <guid>iratanneur.github.io/post/ltee/</guid>
+      <guid>https://iratanneur.github.io/post/ltee/</guid>
       <description>C&amp;rsquo;est une belle histoire, que celle de cette expérience qui est en cours depuis plus de trente ans à l&amp;rsquo;Université du Michigan. A l&amp;rsquo;époque, personne ne pouvait deviner sa pérennité à venir, ni l&amp;rsquo;importance considérable qu&amp;rsquo;elle aurait sur le champ de la biologie de l&amp;rsquo;évolution. Essayons de résumer cette expérience - connue sous le petit nom de LTEE, pour Long Term Evolution Experiment - et son importance pour la communauté scientifique.</description>
     </item>
     
     <item>
       <title>La Bio Au Labo</title>
-      <link>iratanneur.github.io/portfolio/la-bio-au-labo/</link>
+      <link>https://iratanneur.github.io/portfolio/la-bio-au-labo/</link>
       <pubDate>Sun, 30 Aug 2020 16:52:51 +0200</pubDate>
       
-      <guid>iratanneur.github.io/portfolio/la-bio-au-labo/</guid>
+      <guid>https://iratanneur.github.io/portfolio/la-bio-au-labo/</guid>
       <description>En juillet 2020, j&amp;rsquo;ai animé pendant une semaine le compte collaboratif &lt;a href=&#34;https://labioaulabo.tumblr.com/&#34;&gt;La Bio au Labo&lt;/a&gt; pour parler du travail quotidien en laboratoire. Retrouvez mes tweets &lt;a href=&#34;https://wakelet.com/wake/cgmz595m48y8nlfzNAz5K&#34;&gt;ici&lt;/a&gt;.</description>
     </item>
     
     <item>
       <title>Mission de journalisme et communication scientifique pour l&#39;Université Paris-Saclay</title>
-      <link>iratanneur.github.io/portfolio/comm-paris-saclay/</link>
+      <link>https://iratanneur.github.io/portfolio/comm-paris-saclay/</link>
       <pubDate>Sun, 30 Aug 2020 15:15:57 +0200</pubDate>
       
-      <guid>iratanneur.github.io/portfolio/comm-paris-saclay/</guid>
+      <guid>https://iratanneur.github.io/portfolio/comm-paris-saclay/</guid>
       <description>Pendant l&amp;rsquo;année universitaire 2019-2020, j&amp;rsquo;ai eu la chance de travailler pour le service de la communication de l&amp;rsquo;Université Paris-Saclay. Cette page recense les articles écrits dans ce cadre.</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>iratanneur.github.io/contact/</link>
+      <title>Papier Mâché</title>
+      <link>https://iratanneur.github.io/portfolio/papiermache/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>iratanneur.github.io/contact/</guid>
-      <description>Vous pouvez m&amp;rsquo;envoyer un email à ira.tanneur@gmail.com.</description>
+      <guid>https://iratanneur.github.io/portfolio/papiermache/</guid>
+      <description>Courant 2020, j&amp;rsquo;ai rédigé un article sur l&amp;rsquo;expérience de Luria et Delbrück de 1943, relatée dans leur article Mutations of bacteria from virus sensitivity to virus resistance pour le site de vulgarisation de publications scientifiques &lt;a href=&#34;https://papiermachesciences.org/&#34;&gt;Papier-Mâché&lt;/a&gt;. Vous pouvez retrouver cet article &lt;a href=&#34;https://papiermachesciences.org/2020/07/20/comment-montrer-que-la-mutation-precede-la-selection-avec-une-poignee-de-virus-et-de-bacteries-lexperience-de-luria-et-delbruck-c/?v=C&#34;&gt;ici&lt;/a&gt;.</description>
     </item>
     
   </channel>

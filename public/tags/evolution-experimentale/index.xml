@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evolution expérimentale on Ira Tanneur</title>
-    <link>iratanneur.github.io/tags/evolution-experimentale/</link>
+    <link>https://iratanneur.github.io/tags/evolution-experimentale/</link>
     <description>Recent content in Evolution expérimentale on Ira Tanneur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Sun, 04 Oct 2020 12:03:32 +0200</lastBuildDate>
     
-	<atom:link href="iratanneur.github.io/tags/evolution-experimentale/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iratanneur.github.io/tags/evolution-experimentale/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Long Term Evolution Experiment : des bactéries évoluant en laboratoire depuis 1988</title>
-      <link>iratanneur.github.io/post/ltee/</link>
+      <link>https://iratanneur.github.io/post/ltee/</link>
       <pubDate>Sun, 04 Oct 2020 12:03:32 +0200</pubDate>
       
-      <guid>iratanneur.github.io/post/ltee/</guid>
+      <guid>https://iratanneur.github.io/post/ltee/</guid>
       <description>C&amp;rsquo;est une belle histoire, que celle de cette expérience qui est en cours depuis plus de trente ans à l&amp;rsquo;Université du Michigan. A l&amp;rsquo;époque, personne ne pouvait deviner sa pérennité à venir, ni l&amp;rsquo;importance considérable qu&amp;rsquo;elle aurait sur le champ de la biologie de l&amp;rsquo;évolution. Essayons de résumer cette expérience - connue sous le petit nom de LTEE, pour Long Term Evolution Experiment - et son importance pour la communauté scientifique.</description>
     </item>
     

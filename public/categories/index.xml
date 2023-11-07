@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ira Tanneur</title>
-    <link>iratanneur.github.io/categories/</link>
+    <link>https://iratanneur.github.io/categories/</link>
     <description>Recent content in Categories on Ira Tanneur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Sun, 14 Nov 2021 10:33:27 +0100</lastBuildDate>
     
-	<atom:link href="iratanneur.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iratanneur.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Communication scientifique</title>
-      <link>iratanneur.github.io/categories/communication-scientifique/</link>
+      <link>https://iratanneur.github.io/categories/communication-scientifique/</link>
       <pubDate>Sun, 14 Nov 2021 10:33:27 +0100</pubDate>
       
-      <guid>iratanneur.github.io/categories/communication-scientifique/</guid>
+      <guid>https://iratanneur.github.io/categories/communication-scientifique/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Science articles and communication</title>
-      <link>iratanneur.github.io/categories/science-articles-and-communication/</link>
+      <link>https://iratanneur.github.io/categories/science-articles-and-communication/</link>
       <pubDate>Wed, 13 Oct 2021 06:48:44 +0200</pubDate>
       
-      <guid>iratanneur.github.io/categories/science-articles-and-communication/</guid>
+      <guid>https://iratanneur.github.io/categories/science-articles-and-communication/</guid>
       <description></description>
     </item>
     

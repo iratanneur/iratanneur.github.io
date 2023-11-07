@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science-comm on Ira Tanneur</title>
-    <link>iratanneur.github.io/tags/science-comm/</link>
+    <link>https://iratanneur.github.io/tags/science-comm/</link>
     <description>Recent content in Science-comm on Ira Tanneur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Sun, 14 Nov 2021 10:33:27 +0100</lastBuildDate>
     
-	<atom:link href="iratanneur.github.io/tags/science-comm/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iratanneur.github.io/tags/science-comm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title> L’ADN sera-t-il l’avenir du stockage de données ?</title>
-      <link>iratanneur.github.io/portfolio/theconversation/</link>
+      <link>https://iratanneur.github.io/portfolio/theconversation/</link>
       <pubDate>Sun, 14 Nov 2021 10:33:27 +0100</pubDate>
       
-      <guid>iratanneur.github.io/portfolio/theconversation/</guid>
+      <guid>https://iratanneur.github.io/portfolio/theconversation/</guid>
       <description>Article paru dans The Conversation en mai 2021</description>
     </item>
     
     <item>
       <title>Science Comedy Show</title>
-      <link>iratanneur.github.io/portfolio/science-comedy-show/</link>
+      <link>https://iratanneur.github.io/portfolio/science-comedy-show/</link>
       <pubDate>Wed, 13 Oct 2021 06:48:44 +0200</pubDate>
       
-      <guid>iratanneur.github.io/portfolio/science-comedy-show/</guid>
+      <guid>https://iratanneur.github.io/portfolio/science-comedy-show/</guid>
       <description>Performance de théâtre de rue lors de la Fête de la Science 2021 - voir &lt;a href=&#34;https://actu.fr/pays-de-la-loire/yvre-l-eveque_72386/photos-pres-du-mans-le-village-des-sciences-se-plait-bien-a-l-abbaye-royale-de-l-epau_45566881.html&#34;&gt;cet article&lt;/a&gt;</description>
     </item>
     
     <item>
       <title>Je Science donc Je Suis</title>
-      <link>iratanneur.github.io/portfolio/js2/</link>
+      <link>https://iratanneur.github.io/portfolio/js2/</link>
       <pubDate>Fri, 01 Jan 2021 11:16:17 +0100</pubDate>
       
-      <guid>iratanneur.github.io/portfolio/js2/</guid>
+      <guid>https://iratanneur.github.io/portfolio/js2/</guid>
       <description>Au printemps 2020, j&amp;rsquo;ai rejoint l&amp;rsquo;association de vulgarisation scientifique Je Science donc Je Suis. Je suis devenue à l&amp;rsquo;automne 2020 responsable du pôle Podcasts que j&amp;rsquo;ai animé pendant un an, et j&amp;rsquo;ai réalisé et produit plusieurs épisodes de podcast.</description>
     </item>
     
     <item>
-      <title>Papier Mâché</title>
-      <link>iratanneur.github.io/portfolio/papiermache/</link>
-      <pubDate>Fri, 01 Jan 2021 09:06:54 +0100</pubDate>
-      
-      <guid>iratanneur.github.io/portfolio/papiermache/</guid>
-      <description>Courant 2020, j&amp;rsquo;ai rédigé un article sur l&amp;rsquo;expérience de Luria et Delbrück de 1943, relatée dans leur article Mutations of bacteria from virus sensitivity to virus resistance pour le site de vulgarisation de publications scientifiques &lt;a href=&#34;https://papiermachesciences.org/&#34;&gt;Papier-Mâché&lt;/a&gt;. Vous pouvez retrouver cet article &lt;a href=&#34;https://papiermachesciences.org/2020/07/20/comment-montrer-que-la-mutation-precede-la-selection-avec-une-poignee-de-virus-et-de-bacteries-lexperience-de-luria-et-delbruck-c/?v=C&#34;&gt;ici&lt;/a&gt;</description>
-    </item>
-    
-    <item>
       <title>La Bio Au Labo</title>
-      <link>iratanneur.github.io/portfolio/la-bio-au-labo/</link>
+      <link>https://iratanneur.github.io/portfolio/la-bio-au-labo/</link>
       <pubDate>Sun, 30 Aug 2020 16:52:51 +0200</pubDate>
       
-      <guid>iratanneur.github.io/portfolio/la-bio-au-labo/</guid>
+      <guid>https://iratanneur.github.io/portfolio/la-bio-au-labo/</guid>
       <description>En juillet 2020, j&amp;rsquo;ai animé pendant une semaine le compte collaboratif &lt;a href=&#34;https://labioaulabo.tumblr.com/&#34;&gt;La Bio au Labo&lt;/a&gt; pour parler du travail quotidien en laboratoire. Retrouvez mes tweets &lt;a href=&#34;https://wakelet.com/wake/cgmz595m48y8nlfzNAz5K&#34;&gt;ici&lt;/a&gt;.</description>
     </item>
     
     <item>
       <title>Mission de journalisme et communication scientifique pour l&#39;Université Paris-Saclay</title>
-      <link>iratanneur.github.io/portfolio/comm-paris-saclay/</link>
+      <link>https://iratanneur.github.io/portfolio/comm-paris-saclay/</link>
       <pubDate>Sun, 30 Aug 2020 15:15:57 +0200</pubDate>
       
-      <guid>iratanneur.github.io/portfolio/comm-paris-saclay/</guid>
+      <guid>https://iratanneur.github.io/portfolio/comm-paris-saclay/</guid>
       <description>Pendant l&amp;rsquo;année universitaire 2019-2020, j&amp;rsquo;ai eu la chance de travailler pour le service de la communication de l&amp;rsquo;Université Paris-Saclay. Cette page recense les articles écrits dans ce cadre.</description>
+    </item>
+    
+    <item>
+      <title>Papier Mâché</title>
+      <link>https://iratanneur.github.io/portfolio/papiermache/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iratanneur.github.io/portfolio/papiermache/</guid>
+      <description>Courant 2020, j&amp;rsquo;ai rédigé un article sur l&amp;rsquo;expérience de Luria et Delbrück de 1943, relatée dans leur article Mutations of bacteria from virus sensitivity to virus resistance pour le site de vulgarisation de publications scientifiques &lt;a href=&#34;https://papiermachesciences.org/&#34;&gt;Papier-Mâché&lt;/a&gt;. Vous pouvez retrouver cet article &lt;a href=&#34;https://papiermachesciences.org/2020/07/20/comment-montrer-que-la-mutation-precede-la-selection-avec-une-poignee-de-virus-et-de-bacteries-lexperience-de-luria-et-delbruck-c/?v=C&#34;&gt;ici&lt;/a&gt;.</description>
     </item>
     
   </channel>

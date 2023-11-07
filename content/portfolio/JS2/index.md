@@ -73,4 +73,9 @@ Pour *Flash Sciences* :
 
 En tant que responsable du pôle podcast en 2020-2021, je me suis occupée de la mise en ligne et du partage sur les réseaux sociaux des épisodes de toute l'équipe. J'ai également créé les visuels pour mes propres épisodes. 
 
-Vous trouverez ici les liens vers les principales plateformes d'écoute pour [Les Voix de la Science]((https://les-voix-de-la-science.lepodcast.fr/) et [Flash Sciences](https://flashsciences.lepodcast.fr/).
+Vous trouverez ici les liens vers les principales plateformes d'écoute pour [Les Voix de la Science](https://les-voix-de-la-science.lepodcast.fr/) et [Flash Sciences](https://flashsciences.lepodcast.fr/).
+
+
+[Suivre JS2 sur Twitter](https://twitter.com/JeScience)
+
+[Suivre JS2 sur Instagram](https://www.instagram.com/jesciencedoncjesuis/)
