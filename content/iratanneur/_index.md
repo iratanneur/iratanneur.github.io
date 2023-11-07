@@ -68,25 +68,16 @@ Je m'intéresse aussi à la communication et au journalisme scientifique, et je 
 
 ### Compétences
 
-[[feature]]
-  icon = ":dna:"
-  icon_pack = "emoji"
-  name = "Microbiologie, génétique et bioinformatique"
-  
-[[feature]]
-  icon = ":fountain_pen:"
-  icon_pack = "emoji"
-  name = "Rédaction d'articles de vulgarisation scientifique"
 
-[[feature]]
- icon = ":studio_microphone:"
- icon_pack = "emoji"
- name = "Création, animation et montage de podcasts scientifiques"
+<img src="gene_mutations.png" style="height: 100px; width:100px;" />
 
-[[feature]]
- icon = ":teacher:"
- icon_pack = "emoji"
- name = "Présentation du fonctionnement de la recherche et vulgarisation scientifique face public"
+**Microbiologie, génétique et bioinformatique**
+
+**Rédaction d'articles de vulgarisation scientifique**
+
+**Création, animation et montage de podcasts scientifiques**
+
+**Présentation du fonctionnement de la recherche et vulgarisation scientifique face public**
 
 
 </div>
