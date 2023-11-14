@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Réalisations on Ira Tanneur</title>
+    <title>Actions et travaux de médiation scientifique on Ira Tanneur</title>
     <link>https://iratanneur.github.io/portfolio/</link>
-    <description>Recent content in Réalisations on Ira Tanneur</description>
+    <description>Recent content in Actions et travaux de médiation scientifique on Ira Tanneur</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 07 Nov 2023 16:09:25 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2023 15:07:20 +0100</lastBuildDate>
     
 	<atom:link href="https://iratanneur.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PopSciences</title>
+      <link>https://iratanneur.github.io/portfolio/popsciences_lyon/</link>
+      <pubDate>Tue, 14 Nov 2023 15:07:20 +0100</pubDate>
+      
+      <guid>https://iratanneur.github.io/portfolio/popsciences_lyon/</guid>
+      <description>Création d&amp;rsquo;un atelier sur le stockage de données dans l&amp;rsquo;ADN dans le cadre du dispositif Pop&amp;rsquo;Sciences Jeunes</description>
+    </item>
+    
+    <item>
+      <title>Maison d&#39;Initiation et de Sensibilisation aux Sciences</title>
+      <link>https://iratanneur.github.io/portfolio/miss/</link>
+      <pubDate>Tue, 14 Nov 2023 14:49:58 +0100</pubDate>
+      
+      <guid>https://iratanneur.github.io/portfolio/miss/</guid>
+      <description>Mission complémentaire en médiation scientifique lors de mon doctorat</description>
+    </item>
     
     <item>
       <title>Festival Pariscience</title>
@@ -17,8 +35,7 @@
       <pubDate>Tue, 07 Nov 2023 16:09:25 +0100</pubDate>
       
       <guid>https://iratanneur.github.io/portfolio/festival_pariscience/</guid>
-      <description>Participation au concours Symbiose du festival Pariscience en 2022 - Mention spéciale du jury
-Vidéo à retrouver ici</description>
+      <description>Participation au concours Symbiose du festival Pariscience en 2022 - Mention spéciale du jury</description>
     </item>
     
     <item>
