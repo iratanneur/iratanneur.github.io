@@ -10,4 +10,6 @@ weight: 100
 ---
 
 
-Vous pouvez m'envoyer un email à ira.tanneur@gmail.com. 
+Vous pouvez m'envoyer un email à ira.tanneur@gmail.com.
+
+Pour me suivre : direction [Bluesky](https://bsky.app/profile/iratanns.bsky.social) ! 

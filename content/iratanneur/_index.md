@@ -31,6 +31,13 @@ Je m'intéresse aussi à la communication et au journalisme scientifique, et je 
 
 **Microbiologie, génétique et bioinformatique**
 
-<font size= "10"> Crédits pour les icônes utilisées : Flat Icons, Iconjam.</font> 
+<br>
+<br>
+<br>
+<br>
+
+<footer><font size="3"> Crédits pour les icônes utilisées : Flat Icons, Iconjam.</font>
 
 </div>
+
+
